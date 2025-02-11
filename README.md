@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathanael Martinez</h1>
-<h3 align="center">I am a software engineer, who is studying the last four months of my degree, focused on the back-end development area</h3>
+<h3 align="center">Software engineer focused on the backend area, currently a developer at JAVA APX and its related environment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanaelmarba&label=Profile%20views&color=0e75b6&style=flat" alt="nathanaelmarba" /> </p>
 
